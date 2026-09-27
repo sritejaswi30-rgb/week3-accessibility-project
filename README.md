@@ -1,3 +1,4 @@
+
 # Accessible Insights — Blog & Information Portal
 
 Accessible Insights is a standalone, responsive blog portal made for the Week 3 internship task, “Enhancing User Experience with Accessibility.” It uses HTML, CSS, and vanilla JavaScript and works by opening the HTML file directly.
@@ -60,3 +61,9 @@ Week3_Accessibility_Project/
 ├── Accessibility_Report.md
 └── README.md
 ```
+
+## Local preview
+
+On this computer, the project is served at [http://127.0.0.1:8765/](http://127.0.0.1:8765/) while the local server is running. This loopback address is only reachable from this computer.
+
+To start a local server from the project folder, run `python -m http.server 8765 --bind 127.0.0.1`, then open the address above in your browser.
